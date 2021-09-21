@@ -36,7 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<iframe id="spkj" src="https://player.bilibili.com/player.html?aid=44020824&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
-<script type="text/javascript">
-document.getElementById("spkj").style.height=document.getElementById("spkj").scrollWidth\*0.76+"px";
-</script>
+<iframe id="b" class="b video_pc" src="https://www.bilibili.com/html/html5player.html?cid=24237876&aid=14875829&pre_ad=0" frameborder="0" allowfullscreen="true">
+</iframe>  
