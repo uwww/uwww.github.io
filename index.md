@@ -16,6 +16,7 @@
 
 [点此听歌](https://www.bilibili.com/video/BV1iT4y177MP)
 
+生きていたんだよな  
 两天前这里附近  
 有人跳楼自杀了  
 电视里播着这样一则新闻
