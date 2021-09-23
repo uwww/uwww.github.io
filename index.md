@@ -4,37 +4,18 @@ You can use the [editor on GitHub](https://github.com/uwww/uwww.github.io/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 跳楼
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+很早就有了自杀的念头，5月25日，我就预定了6月6日晚上湖州的民宿，花了438元。当时计划在6月6日，假装去杭州看演唱会，其实是去湖州跳楼自杀。之后又出了小插曲，5月27日晚上，我妈说了一句随便我怎么样都行，爱去哪去哪。我就顺势而为，假装说明天去杭州投奔同学。当晚就把前两天预定的，6月6日的民宿，改到了5月28日晚上，因为是周五，还加了151元房费。5月28日下午赶到了湖州，民宿在31楼。凌晨3点，我翻出窗外，就站在空调平台上，往前走一步就解脱了，但是因为恐高，我始终迈不开腿。一直给自己做心理建设，在空调上面站了半个小时，我最后还是放弃了，爬回了房间里面。第一次自杀计划算是已失败告终了。
 
-```markdown
-Syntax highlighted code block
+### 上吊
 
-# Header 1
-## Header 2
-### Header 3
+时间来到9月。因为《完全自杀手册》上写的，上吊完全没有痛苦，我打算尝试上吊自杀。9月2日，在淘宝上买了绳子，把绳子捆在了墙壁空调管道的孔上。9月5日，凌晨12点多，我把绳子套在了脖子上，上去后身体就不由自主的挣扎，还是挺疼的，待了十几秒我就下来了。左手手肘因为挣扎，在墙上磨出了伤口，我妈看到还问我怎么了，我骗她说是不小心在墙上蹭的。喉咙也痛了两天，喝水吃饭会更疼。第二次自杀计划也已失败告终了。
 
-- Bulleted
-- List
+### 计划去成都跳楼
 
-1. Numbered
-2. List
+上吊失败后，我又把目光放到了跳楼上，温岭可以跳楼的地方都选好了。我妈说要去成都，我就在想那就去成都跳楼吧。我其实不想写这么多东西的，我第一次在湖州跳楼，没发过任何东西。在家里上吊的时候，给我妈发了一首歌。但是去成都自杀，牵扯到更多的人，我还是决定写一写我的自杀历程，免得造成误会。写于2021年9月16日。
 
-**Bold** and _Italic_ and `Code` text
+### 生きていたんだよな
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uwww/uwww.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-<iframe id="b" class="b video_pc" src="https://www.bilibili.com/html/html5player.html?cid=24237876&aid=14875829&pre_ad=0" frameborder="0" allowfullscreen="true">
-</iframe>  
+[点此听歌](www.bilibili.com/video/BV1iT4y177MP)
