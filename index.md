@@ -1,9 +1,5 @@
 ## 想说的话
 
-You can use the [editor on GitHub](https://github.com/uwww/uwww.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### 跳楼
 
 很早就有了自杀的念头，5月25日，我就预定了6月6日晚上湖州的民宿，花了438元。当时计划在6月6日，假装去杭州看演唱会，其实是去湖州跳楼自杀。之后又出了小插曲，5月27日晚上，我妈说了一句随便我怎么样都行，爱去哪去哪。我就顺势而为，假装说明天去杭州投奔同学。当晚就把前两天预定的，6月6日的民宿，改到了5月28日晚上，因为是周五，还加了151元房费。5月28日下午赶到了湖州，民宿在31楼。凌晨3点，我翻出窗外，就站在空调平台上，往前走一步就解脱了，但是因为恐高，我始终迈不开腿。一直给自己做心理建设，在空调上面站了半个小时，我最后还是放弃了，爬回了房间里面。第一次自杀计划算是已失败告终了。
